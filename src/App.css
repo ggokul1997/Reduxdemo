@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: rgb(132, 140, 140);
+}
+
+
+.header{
+  position:sticky;
+  top: 0;
+}
+
+.footer{
+  position: sticky;
+  top: 500px;
+}
